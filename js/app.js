@@ -1,13 +1,13 @@
 //Prepare a pool of quotes where our application can pick froom...
 const allQuote = [
-    ["The greatest glory in living lies not in never falling, but in rising every time we fall.", "Nelson Mandela"], 
-    ["Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.", "Steve Jobs"],
-    ["If life were predictable it would cease to be life, and be without flavor.", "Eleanor Roosevelt"],
-    ["If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.", "James Cameron"],
-    ["Life is what happens when you're busy making other plans.", "John Lennon"],
-    ["When you reach the end of your rope, tie a knot in it and hang on.", "Franklin D. Roosevelt"],
-    ["Tell me and I forget. Teach me and I remember. Involve me and I learn.", "Benjamin Franklin"],
-    ["It is during our darkest moments that we must focus to see the light.", "Aristotle"]
+    ["The greatest glory in living lies not in never falling, but in rising every time we fall.", "-Nelson Mandela-"], 
+    ["Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.", "-Steve Jobs-"],
+    ["If life were predictable it would cease to be life, and be without flavor.", "-Eleanor Roosevelt-"],
+    ["If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.", "-James Cameron-"],
+    ["Life is what happens when you're busy making other plans.", "-John Lennon-"],
+    ["When you reach the end of your rope, tie a knot in it and hang on.", "-Franklin D. Roosevelt-"],
+    ["Tell me and I forget. Teach me and I remember. Involve me and I learn.", "-Benjamin Franklin-"],
+    ["It is during our darkest moments that we must focus to see the light.", "-Aristotle-"]
 ]
 
 
